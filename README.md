@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m Flutter Developer a<br>🔭 I'm currently working on XpressBites<br>👬 I'm looking for collaborator for XpressBites<br>[![Garv's GitHub stats]<br>
+🌱 I’m Flutter Developer a<br>🔭 I'm currently working on XpressBites<br>👬 I'm looking for collaborator for XpressBites<br>
 
 
 ## 🌐 Socials:
