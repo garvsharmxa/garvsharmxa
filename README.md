@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Garv Sharma</h1>
-<h3 align="center">🚀 Flutter & Django Enthusiast | Building XpressBites | Tech Explorer</h3>
+<h3 align="center">🚀 Flutter & Django Enthusiast | Building NuminX | Tech Explorer</h3>
 
 ---
 
 ### 💫 About Me
 - 😄 **Pronouns:** He/His  
-- 🔭 **Currently building:** [**XpressBites**](#) – Revolutionizing food ordering in campuses & corporates  
+- 🔭 **Currently building:** [**NuminX**](#) – Revolutionizing food ordering in campuses & corporates  
 - 🌱 **Learning:** Flutter & Django (4-5 hours daily grind!)  
 - 💬 **Ask me about:** Flutter, App Development, APIs, Backend Integration  
 - 📫 **Reach me at:** Via social links below  
