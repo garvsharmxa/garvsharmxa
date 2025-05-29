@@ -5,7 +5,7 @@
 
 ### 💫 About Me
 - 😄 **Pronouns:** He/His  
-- 🔭 **Currently building:** [**NuminX**](#) – Revolutionizing food ordering in campuses & corporates  
+- 🔭 **Currently building:** [**NuminX**](#) – Investing in Blue-Chip Crypto Assets for Long-Term Wealth
 - 🌱 **Learning:** Flutter & Django (4-5 hours daily grind!)  
 - 💬 **Ask me about:** Flutter, App Development, APIs, Backend Integration  
 - 📫 **Reach me at:** Via social links below  
