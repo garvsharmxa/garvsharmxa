@@ -72,7 +72,7 @@
 
 ### 🚀 Visitor Count
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=garvsharmxa&label=Profile%20Views&color=0&icon=0&pretty=true"/>
+  <img src="https://komarev.com/ghpvc/?username=garvsharmxa&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
